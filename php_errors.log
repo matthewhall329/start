@@ -1,0 +1,48 @@
+[06-Feb-2018 15:13:21 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[06-Feb-2018 15:13:21 UTC] PHP Stack trace:
+[06-Feb-2018 15:13:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[06-Feb-2018 15:13:21 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[06-Feb-2018 15:13:21 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:222
+[06-Feb-2018 15:13:21 UTC] PHP   4. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[06-Feb-2018 15:13:21 UTC] PHP   5. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[06-Feb-2018 15:13:21 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[06-Feb-2018 15:13:21 UTC] PHP   7. TGM_Plugin_Activation->install_plugins_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[06-Feb-2018 15:13:21 UTC] PHP   8. TGMPA_List_Table->process_bulk_actions() /home/ubuntu/workspace/wp-content/themes/oneline-lite/class-tgm-plugin-activation.php:658
+[06-Feb-2018 15:13:21 UTC] PHP   9. TGMPA_Bulk_Installer->bulk_install() /home/ubuntu/workspace/wp-content/themes/oneline-lite/class-tgm-plugin-activation.php:2892
+[06-Feb-2018 15:13:21 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/ubuntu/workspace/wp-content/themes/oneline-lite/class-tgm-plugin-activation.php:3289
+[06-Feb-2018 15:13:21 UTC] PHP  11. WP_Upgrader->run() /home/ubuntu/workspace/wp-content/themes/oneline-lite/class-tgm-plugin-activation.php:3173
+[06-Feb-2018 15:13:21 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/ubuntu/workspace/wp-admin/includes/class-wp-upgrader.php:757
+[06-Feb-2018 15:13:21 UTC] PHP  13. Bulk_Upgrader_Skin->after() /home/ubuntu/workspace/wp-content/themes/oneline-lite/class-tgm-plugin-activation.php:3553
+[06-Feb-2018 15:13:21 UTC] PHP  14. sprintf() /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php:154
+[06-Feb-2018 15:13:23 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[06-Feb-2018 15:13:23 UTC] PHP Stack trace:
+[06-Feb-2018 15:13:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[06-Feb-2018 15:13:23 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[06-Feb-2018 15:13:23 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:222
+[06-Feb-2018 15:13:23 UTC] PHP   4. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[06-Feb-2018 15:13:23 UTC] PHP   5. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[06-Feb-2018 15:13:23 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[06-Feb-2018 15:13:23 UTC] PHP   7. TGM_Plugin_Activation->install_plugins_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[06-Feb-2018 15:13:23 UTC] PHP   8. TGMPA_List_Table->process_bulk_actions() /home/ubuntu/workspace/wp-content/themes/oneline-lite/class-tgm-plugin-activation.php:658
+[06-Feb-2018 15:13:23 UTC] PHP   9. TGMPA_Bulk_Installer->bulk_install() /home/ubuntu/workspace/wp-content/themes/oneline-lite/class-tgm-plugin-activation.php:2892
+[06-Feb-2018 15:13:23 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/ubuntu/workspace/wp-content/themes/oneline-lite/class-tgm-plugin-activation.php:3289
+[06-Feb-2018 15:13:23 UTC] PHP  11. WP_Upgrader->run() /home/ubuntu/workspace/wp-content/themes/oneline-lite/class-tgm-plugin-activation.php:3173
+[06-Feb-2018 15:13:23 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/ubuntu/workspace/wp-admin/includes/class-wp-upgrader.php:757
+[06-Feb-2018 15:13:23 UTC] PHP  13. Bulk_Upgrader_Skin->after() /home/ubuntu/workspace/wp-content/themes/oneline-lite/class-tgm-plugin-activation.php:3553
+[06-Feb-2018 15:13:23 UTC] PHP  14. sprintf() /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php:154
+[06-Feb-2018 15:13:25 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[06-Feb-2018 15:13:25 UTC] PHP Stack trace:
+[06-Feb-2018 15:13:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[06-Feb-2018 15:13:25 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[06-Feb-2018 15:13:25 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:222
+[06-Feb-2018 15:13:25 UTC] PHP   4. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[06-Feb-2018 15:13:25 UTC] PHP   5. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[06-Feb-2018 15:13:25 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[06-Feb-2018 15:13:25 UTC] PHP   7. TGM_Plugin_Activation->install_plugins_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[06-Feb-2018 15:13:25 UTC] PHP   8. TGMPA_List_Table->process_bulk_actions() /home/ubuntu/workspace/wp-content/themes/oneline-lite/class-tgm-plugin-activation.php:658
+[06-Feb-2018 15:13:25 UTC] PHP   9. TGMPA_Bulk_Installer->bulk_install() /home/ubuntu/workspace/wp-content/themes/oneline-lite/class-tgm-plugin-activation.php:2892
+[06-Feb-2018 15:13:25 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/ubuntu/workspace/wp-content/themes/oneline-lite/class-tgm-plugin-activation.php:3289
+[06-Feb-2018 15:13:25 UTC] PHP  11. WP_Upgrader->run() /home/ubuntu/workspace/wp-content/themes/oneline-lite/class-tgm-plugin-activation.php:3173
+[06-Feb-2018 15:13:25 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/ubuntu/workspace/wp-admin/includes/class-wp-upgrader.php:757
+[06-Feb-2018 15:13:25 UTC] PHP  13. Bulk_Upgrader_Skin->after() /home/ubuntu/workspace/wp-content/themes/oneline-lite/class-tgm-plugin-activation.php:3553
+[06-Feb-2018 15:13:25 UTC] PHP  14. sprintf() /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php:154
